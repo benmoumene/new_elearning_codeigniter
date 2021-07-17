@@ -29,4 +29,4 @@ Dernière version : 2.0
 
 DÉMO | MISE À JOUR DU PORTAIL | GUIDE D'INSTALLATION
 
-<a href="http://www.dokumenary.net/demo-aplikasi-elearning/">DEMO</a> | <a href="http://dokumenary.net">PORTAL UPDATE</a> | <a href="http://www.dokumenary.net/2015/08/23/new-elearning-versi-1-0/">PANDUAN INSTALL</a>
+<a href="http://www.dokumenary.net/demo-aplikasi-elearning/">DEMO</a> | <a href="http://dokumenary.net">MISE À JOUR DU PORTAIL</a> | <a href="http://www.dokumenary.net/2015/08/23/new-elearning-versi-1-0/">GUIDE D'INSTALLATION</a>
