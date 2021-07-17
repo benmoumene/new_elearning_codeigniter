@@ -1,35 +1,32 @@
 new_elearning
 =============
+Une application qui peut être utilisée comme support pour les activités d'enseignement et d'apprentissage au niveau collégial / secondaire / professionnel équivalent ou dans d'autres établissements d'enseignement, et a été utilisée par de nombreuses écoles en Indonésie depuis la distribution de la version 1.0.
 
-New Elearning (LMS) dokumenary
-By     : http://www.dokumenary.net
-Author : Almazari <almazary@gmail.com>
+En général, cette application a les caractéristiques suivantes :
 
-Sebuah aplikasi yang dapat digunakan sebagai media untuk kegiatan belajar dan mengajar disekolah tingkat SMP/SMA/SMK sederajat atau instansi pendidikan lainnya, dan telah digunakan oleh banyak sekolah - sekolah di Indonesia sejak versi 1.0 dibagikan.
+Annonce
+Messages entre utilisateurs
+Traitement des données des étudiants
+Traitement des données des enseignants
+Devoirs (choix multiples, essai et téléchargement)
+Examens en ligne
+Partager du matériel
+Discussion matérielle
+Horaire des cours étudiants
+Pour les utilisateurs, il se divise en trois, à savoir :
 
-Secara umum, aplikasi ini memiliki fitur sebagai berikut:
-- Pengumuman
-- Pesan antar pengguna
-- Pengolahan data siswa
-- Pengolahan data pengajar
-- Tugas (Pilihan Ganda, Essay dan Upload)
-- Ujian online
-- Berbagi materi
-- Diskusi materi
-- Jadwal matapelajaran siswa
+Élève
+prof
+Administrateur (Enseignant agissant en tant qu'administrateur)
+Licence:
 
-Untuk pengguna terbagi menjadi tiga, yaitu:
-- Siswa
-- Pengajar
-- Administrator (Pengajar yang bertindak sebagai administrator)
+Libre d'utiliser, copier, modifier, distribuer. Plus de détails peuvent être trouvés dans le fichier license.txt
+Besoins:
 
-Lisensi:
-- Gratis untuk digunakan, disalin, dimodifikasi, didistribusikan. Selengkapnya terdapat pada file license.txt
+Version PHP >= 5.5 & <= 7.3
+mysql
+Dernière version : 2.0
 
-Kebutuhan:
-- PHP Versi >= 5.5 & <= 7.3
-- Mysql
-
-Versi terbaru: 2.0
+DÉMO | MISE À JOUR DU PORTAIL | GUIDE D'INSTALLATION
 
 <a href="http://www.dokumenary.net/demo-aplikasi-elearning/">DEMO</a> | <a href="http://dokumenary.net">PORTAL UPDATE</a> | <a href="http://www.dokumenary.net/2015/08/23/new-elearning-versi-1-0/">PANDUAN INSTALL</a>
