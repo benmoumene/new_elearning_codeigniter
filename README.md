@@ -3,18 +3,17 @@ new_elearning
 Une application qui peut être utilisée comme support pour les activités d'enseignement et d'apprentissage au niveau collégial / secondaire / professionnel équivalent ou dans d'autres établissements d'enseignement, et a été utilisée par de nombreuses écoles en Indonésie depuis la distribution de la version 1.0.
 
 En général, cette application a les caractéristiques suivantes :
-
-Annonce
-Messages entre utilisateurs
-Traitement des données des étudiants
-Traitement des données des enseignants
-Devoirs (choix multiples, essai et téléchargement)
-Examens en ligne
-Partager du matériel
-Discussion matérielle
-Horaire des cours étudiants
-Pour les utilisateurs, il se divise en trois, à savoir :
-
+*Annonce
+*Messages entre utilisateurs
+*Traitement des données des étudiants
+*Traitement des données des enseignants
+*Devoirs (choix multiples, essai et téléchargement)
+*Examens en ligne
+*Partager du matériel
+*Discussion matérielle
+*Horaire des cours étudiants
+*Pour les utilisateurs, il se divise en trois, à savoir :
+=============
 Élève
 prof
 Administrateur (Enseignant agissant en tant qu'administrateur)
